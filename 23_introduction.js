@@ -31,3 +31,5 @@ function IdolFunction(name, year){ //함수에는 constructor가 없어서 파�
 
 const gaEul = new IdolFunction('기을', 2002); // 할당해줘야지 new 키워드 쓸수 잇음
 console.log(gaEul);
+
+//class Ham
